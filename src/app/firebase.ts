@@ -3,12 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAf0oi4SND63eUClsUgmtCr7u_ApAAyN4s",
-  authDomain: "gif-hub-auth.firebaseapp.com",
-  projectId: "gif-hub-auth",
-  storageBucket: "gif-hub-auth.appspot.com",
-  messagingSenderId: "1034736357497",
-  appId: "1:1034736357497:web:af7f431012ddbee5a144a8"
+  apiKey: "AIzaSyCXrO1C2SnA1tgwNj-q0LJn2rApp9StXLs",
+  authDomain: "alphabi-2ec3d.firebaseapp.com",
+  projectId: "alphabi-2ec3d",
+  storageBucket: "alphabi-2ec3d.appspot.com",
+  messagingSenderId: "253065173648",
+  appId: "1:253065173648:web:e6193ecfbbe20c336e1615",
+  measurementId: "G-W8F8KJHXMJ"
 };
 
 // Initialize Firebase
